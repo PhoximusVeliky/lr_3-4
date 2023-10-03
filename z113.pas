@@ -1,8 +1,8 @@
-﻿program z113;
+program z113;
 var i,a,s:integer;
  begin
  a:=-3;
- for i:=1 to 3 do 
+ for i:=1 to 10 do 
    begin
    a:=a+6;
    s:=a+s;
